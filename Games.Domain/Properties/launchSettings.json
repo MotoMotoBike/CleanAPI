@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Games.Domain": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Meliodas\\Desktop\\CleanAPI\\Games.WebApi"
+    }
+  }
+}

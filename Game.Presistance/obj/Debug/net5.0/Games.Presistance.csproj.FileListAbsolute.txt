@@ -1,0 +1,17 @@
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Presistance.deps.json
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Presistance.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Presistance.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Application.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Domain.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Application.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\bin\Debug\net5.0\Games.Domain.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.csproj.AssemblyReference.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.AssemblyInfoInputs.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.AssemblyInfo.cs
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.csproj.CoreCompileInputs.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.csproj.CopyComplete
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\refint\Games.Presistance.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\Games.Presistance.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Presistance\obj\Debug\net5.0\ref\Games.Presistance.dll

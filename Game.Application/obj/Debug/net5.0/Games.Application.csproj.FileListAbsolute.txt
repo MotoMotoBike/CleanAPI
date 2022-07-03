@@ -1,0 +1,15 @@
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\bin\Debug\net5.0\Games.Application.deps.json
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\bin\Debug\net5.0\Games.Application.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\bin\Debug\net5.0\Games.Application.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\bin\Debug\net5.0\Games.Domain.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\bin\Debug\net5.0\Games.Domain.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.csproj.AssemblyReference.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.AssemblyInfoInputs.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.AssemblyInfo.cs
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.csproj.CoreCompileInputs.cache
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.csproj.CopyComplete
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\refint\Games.Application.dll
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\Games.Application.pdb
+C:\Users\Meliodas\Desktop\CleanAPI\Game.Application\obj\Debug\net5.0\ref\Games.Application.dll
